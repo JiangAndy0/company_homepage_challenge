@@ -56,7 +56,7 @@ main {
 
 .mission {
     height: 600px;
-    background-image: url("../images/background_banner.jpg");
+    background-image: url('../images/background_banner.jpg');
     background-size: cover;
     background-position: 50% 15%;
     display: flex;
